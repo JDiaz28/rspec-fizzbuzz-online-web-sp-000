@@ -12,6 +12,6 @@ def fizzbuzz(int)
   end 
 else
   number
-  
+end
 end 
 
