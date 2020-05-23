@@ -2,11 +2,12 @@
 # See README.md for instructions on how to do this
 def fizzbuzz
   if int % 3 == 0 
-    "Fizz"
+    return "Fizz"
   end 
-  elsif int % 5 ==0 
-    "Fuzz"
+  elsif int % 5 == 0 
+    return "Fuzz"
   end 
+  elsif int %
 else 
   "nil"
 end 
